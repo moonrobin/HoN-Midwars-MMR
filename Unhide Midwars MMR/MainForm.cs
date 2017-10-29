@@ -22,6 +22,7 @@ namespace Unhide_Midwars_MMR
             if (!Directory.Exists(installDir))
             {
                 SetPathManually();
+                return;
             }
             honZip = new HonZip(installDir);
         }
