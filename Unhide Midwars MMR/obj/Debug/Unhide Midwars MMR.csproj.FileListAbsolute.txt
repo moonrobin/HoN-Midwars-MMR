@@ -1,0 +1,9 @@
+c:\users\robin lu\documents\visual studio 2017\Projects\Unhide Midwars MMR\Unhide Midwars MMR\bin\Debug\Unhide Midwars MMR.exe.config
+c:\users\robin lu\documents\visual studio 2017\Projects\Unhide Midwars MMR\Unhide Midwars MMR\bin\Debug\Unhide Midwars MMR.exe
+c:\users\robin lu\documents\visual studio 2017\Projects\Unhide Midwars MMR\Unhide Midwars MMR\bin\Debug\Unhide Midwars MMR.pdb
+c:\users\robin lu\documents\visual studio 2017\Projects\Unhide Midwars MMR\Unhide Midwars MMR\obj\Debug\Unhide Midwars MMR.csprojResolveAssemblyReference.cache
+c:\users\robin lu\documents\visual studio 2017\Projects\Unhide Midwars MMR\Unhide Midwars MMR\obj\Debug\Unhide Midwars MMR.csproj.GenerateResource.Cache
+c:\users\robin lu\documents\visual studio 2017\Projects\Unhide Midwars MMR\Unhide Midwars MMR\obj\Debug\Unhide Midwars MMR.exe
+c:\users\robin lu\documents\visual studio 2017\Projects\Unhide Midwars MMR\Unhide Midwars MMR\obj\Debug\Unhide Midwars MMR.pdb
+C:\Users\Robin Lu\documents\visual studio 2017\Projects\Unhide Midwars MMR\Unhide Midwars MMR\obj\Debug\Unhide_Midwars_MMR.Properties.Resources.resources
+C:\Users\Robin Lu\documents\visual studio 2017\Projects\Unhide Midwars MMR\Unhide Midwars MMR\obj\Debug\Unhide_Midwars_MMR.MainForm.resources
