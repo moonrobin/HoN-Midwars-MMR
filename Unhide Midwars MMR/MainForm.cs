@@ -78,7 +78,7 @@ namespace Unhide_Midwars_MMR
 
         private void githubLinkToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://google.com");
+            System.Diagnostics.Process.Start("https://github.com/moonrobin/HoN-Midwars-MMR");
         }
     }
 }

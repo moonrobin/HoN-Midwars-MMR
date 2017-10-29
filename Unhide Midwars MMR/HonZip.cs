@@ -70,7 +70,6 @@ namespace Unhide_Midwars_MMR
                 string newGameLobby = String.Empty;
                 using (var zipToOpen = new FileStream(resourcesPath, FileMode.Open))
                 {
-
                     using (var archive = new ZipArchive(zipToOpen, ZipArchiveMode.Update))
                     {
                         var entryGameLobby = archive.GetEntry(RelPathGameLobby);
